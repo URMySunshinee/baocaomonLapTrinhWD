@@ -1,0 +1,17 @@
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe.config
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.pdb
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.csproj.AssemblyReference.cache
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.frmDangNhap.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.frmHoaDon.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.frmKhachHang.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.frmMain.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.frmNhaCungCap.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.frmNhanVien.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.frmSanPham.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.frmTimKiem.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.csproj.GenerateResource.cache
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.csproj.CoreCompileInputs.cache
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.exe
+D:\BaoCaoLapTrinhWD\QuanLyBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.pdb
